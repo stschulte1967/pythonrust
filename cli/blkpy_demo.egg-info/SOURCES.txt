@@ -1,0 +1,10 @@
+setup.py
+blkpy/__init__.py
+blkpy/main.py
+blkpy/util.py
+blkpy_demo.egg-info/PKG-INFO
+blkpy_demo.egg-info/SOURCES.txt
+blkpy_demo.egg-info/dependency_links.txt
+blkpy_demo.egg-info/entry_points.txt
+blkpy_demo.egg-info/requires.txt
+blkpy_demo.egg-info/top_level.txt
